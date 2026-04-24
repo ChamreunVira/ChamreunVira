@@ -38,16 +38,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vyrabot&show_icons=true&theme=default" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vyrabot&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyrabot&layout=compact&theme=default" />
-</div>
-
----
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
   <p><i>✨ Turning caffeine into clean, scalable code ✨</i></p>
