@@ -48,20 +48,6 @@
 
 ---
 
-## 📫 Connect With Me
-
-<div align="center">
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Vyrabot&label=Profile+Views&color=0EA5E9&style=flat" />
-</div>
-
----
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
   <p><i>✨ Turning caffeine into clean, scalable code ✨</i></p>
