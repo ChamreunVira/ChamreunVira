@@ -48,42 +48,6 @@
 
 ---
 
-## 🎯 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-
-<td width="50%">
-<h3 align="center">🛒 E-Commerce Platform</h3>
-<p align="center">
-<strong>React + Spring Boot</strong><br/>
-Secure payments & inventory management
-</p>
-</td>
-
-<td width="50%">
-<h3 align="center">📊 E-Learning Website</h3>
-<p align="center">
-<strong>React.js + Java Backend</strong><br/>
-Team collaboration & productivity
-</p>
-</td>
-
-</tr>
-</table>
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Vyrabot/Vyrabot/output/snake.svg" />
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
