@@ -1,8 +1,21 @@
-# 👋 Hi, I'm Chamreun Vira
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1A5CFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Chamreun+Vira+%F0%9F%91%8B;Full-Stack+Developer;Java+%26+Spring+Boot+Specialist;React+%7C+Vue+%7C+Angular;Clean+Code+Advocate" alt="Typing SVG" />
+</div>
 
-### 👨‍💻 Full-Stack Developer — Java & React Specialist
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=virachamreun&color=1a5cff&style=flat-square&label=Profile+Views" />
+</div>
 
-Backend-focused developer with hands-on experience building scalable RESTful APIs and robust system architectures using **Spring Boot** and **PostgreSQL**. Passionate about clean code, system design, and delivering production-ready solutions through collaborative development practices.
+---
+
+### 👨‍💻 About Me
+
+Full-Stack Developer specializing in Java Spring Boot APIs and modern frontend frameworks. I build scalable, production-ready systems with clean architecture.
+
+- 🔭 Currently building university & e-learning platforms
+- 🌱 Exploring IoT integration with Spring Boot
+- 💡 Passionate about clean code, system design, and RESTful APIs
+- 📍 Based in Phnom Penh, Cambodia
 
 ---
 
@@ -15,11 +28,13 @@ Backend-focused developer with hands-on experience building scalable RESTful API
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ### 🗄️ Database
@@ -33,42 +48,56 @@ Backend-focused developer with hands-on experience building scalable RESTful API
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
+### 📡 IoT & Embedded
+![IoT](https://img.shields.io/badge/IoT-00979D?style=flat&logo=arduino&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=eclipsemosquitto&logoColor=white)
+
 ---
 
 ## 💼 Projects
 
-### 🎓 Boukry University System
+### 🎓 RUPP University System
 > **Angular + Spring Boot + PostgreSQL** · *Mar 2026 – May 2026*
 
-A full-stack university management system built with clean architecture patterns.
+Full-stack university management system for the Royal University of Phnom Penh.
 
-- Designed and developed RESTful APIs using Spring Boot
-- Built scalable PostgreSQL database schema with optimised queries
-- Integrated Angular frontend with backend services through secure API endpoints
-- Implemented role-based access control (RBAC) and data validation for system security
-- Collaborated with team using Git version control and agile practices
+- RESTful APIs with Spring Boot & clean architecture
+- Scalable PostgreSQL schema with optimised queries
+- Role-based access control (RBAC) & data validation
+- Vue.js frontend integrated via secure API endpoints
+- Agile teamwork with Git version control
 
 ---
 
 ### 📚 E-Learning Platform
-> **React + Spring Boot + PostgreSQL** · *Collaborative Group Project*
+> **React + Vue.js + Spring Boot + MongoDB** · *Collaborative Group Project*
 
-A full-featured e-learning platform supporting course delivery and user progress tracking.
+Feature-rich e-learning platform supporting course delivery, authentication, and progress tracking.
 
-- Implemented Spring Boot backend services with RESTful API architecture
-- Developed comprehensive PostgreSQL schema for course management and user tracking
-- Built responsive React frontend components with seamless backend integration
-- Implemented user authentication, course delivery, and progress tracking features
-- Maintained code quality and consistency across the full stack with team collaboration
+- Spring Boot RESTful backend with PostgreSQL for flexible content storage
+- React JS frontend components with TailwindCSS UI
+- User authentication, course delivery & progress tracking
+- Full-stack code quality maintained across team collaboration
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=virachamreun&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virachamreun&layout=compact&theme=default&hide_border=true" height="150" />
+</div>
 
 ---
 
 ## 📫 Contact
 
-- 📧 **Email:** virachamreun@gmail.com
-- 📞 **Phone:** (+855) 97 305 6747
-- 🐙 **GitHub:** [github.com/virachamreun](https://github.com/virachamreun)
+- 📧 virachamreun@gmail.com
+- 📞 (+855) 97 305 6747
+- 🐙 [github.com/virachamreun](https://github.com/virachamreun)
 
 ---
 
-*✨ Turning clean architecture into production-ready software ✨*
+<div align="center">
+  <i>✨ Turning clean architecture into production-ready software ✨</i>
+</div>
