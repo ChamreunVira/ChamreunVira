@@ -8,7 +8,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Mee
 
 Full-Stack Developer specializing in Java Spring Boot APIs and modern frontend frameworks. I build scalable, production-ready systems with clean architecture.
 
