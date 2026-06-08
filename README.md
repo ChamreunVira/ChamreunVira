@@ -54,33 +54,6 @@ Full-Stack Developer specializing in Java Spring Boot APIs and modern frontend f
 
 ---
 
-## 💼 Projects
-
-### 🎓 RUPP University System
-> **Nuxt + Spring Boot + PostgreSQL** · *Mar 2026 – May 2026*
-
-Full-stack university management system for the Royal University of Phnom Penh.
-
-- RESTful APIs with Spring Boot & clean architecture
-- Scalable PostgreSQL schema with optimised queries
-- Role-based access control (RBAC) & data validation
-- Nuxt frontend integrated via secure API endpoints
-- Agile teamwork with Git version control
-
----
-
-### 📚 E-Learning Platform
-> **React Js + Spring Boot + MongoDB** · *Collaborative Group Project*
-
-Feature-rich e-learning platform supporting course delivery, authentication, and progress tracking.
-
-- Spring Boot RESTful backend with PostgreSQL for flexible content storage
-- React JS frontend components with TailwindCSS UI
-- User authentication, course delivery & progress tracking
-- Full-stack code quality maintained across team collaboration
-
----
-
 ## 📫 Contact
 
 - 📧 virachamreun@gmail.com
