@@ -8,25 +8,25 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 Full-Stack Developer specializing in Java Spring Boot APIs and modern frontend frameworks. I build scalable, production-ready systems with clean architecture.
 
-- 🔭 Currently building university & e-learning platforms
-- 🌱 Exploring IoT integration with Spring Boot
-- 💡 Passionate about clean code, system design, and RESTful APIs
-- 📍 Based in Phnom Penh, Cambodia
+- Currently building university & e-learning platforms
+- Exploring IoT integration with Spring Boot
+- Passionate about clean code, system design, and RESTful APIs
+- Based in Phnom Penh, Cambodia
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
-### ⚙️ Backend
+### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-0A7EA4?style=flat&logo=fastapi&logoColor=white)
 
-### 🎨 Frontend
+### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
@@ -37,24 +37,20 @@ Full-Stack Developer specializing in Java Spring Boot APIs and modern frontend f
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-### 🗄️ Database
+### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### 🛠️ Tools & DevOps
+### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-### 📡 IoT & Embedded
-![IoT](https://img.shields.io/badge/IoT-00979D?style=flat&logo=arduino&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=eclipsemosquitto&logoColor=white)
-
 ---
 
-## 📫 Contact
+## Contact
 
 - 📧 virachamreun@gmail.com
 - 📞 (+855) 97 305 6747
